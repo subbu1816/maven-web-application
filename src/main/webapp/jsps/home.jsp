@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Pipeline - CICD Demo  .....</h1>
-<h1 align="center"> Welcome to Jenkins CICD -By <i>TATA VAMSHI    c Krishna</i>......Creating Jenkins Pipeline to deploy Web Application In Tomacat server,this Pipeline </h1>
+<h1 align="center"> Welcome to Jenkins CICD -By <i>Usha Kiran </i>from Khammam......Creating Jenkins Pipeline to deploy Web Application In Tomacat server,this Pipeline </h1>
 <hr>
 <div style="text-align: center;">
 	
